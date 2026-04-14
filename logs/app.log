@@ -1,0 +1,75 @@
+06:44:17.293 [main] INFO  validator.impl.ArrayValidatorImpl - 1, 2, 3, 4, 5, 6isValidtrue
+06:44:17.299 [main] INFO  parser.impl.ArrayParserImpl - Parsed array: [1, 2, 3, 4, 5, 6]
+06:44:17.300 [main] INFO  Main - Max: 6
+06:44:17.300 [main] INFO  Main - Min: 1
+06:44:17.301 [main] INFO  Main - Sum: 21
+06:44:17.301 [main] INFO  Main - Average: 3.5
+06:44:17.302 [main] INFO  Main - Bubble sorted: 1 2 3 4 5 6
+06:44:17.302 [main] INFO  Main - Quick sorted: 1 2 3 4 5 6
+06:44:17.302 [main] INFO  validator.impl.ArrayValidatorImpl - 10 - 34 - 65 - 86isValidtrue
+06:44:17.302 [main] ERROR parser.impl.ArrayParserImpl - Failed to parse: 10 - 34 - 65 - 86
+06:44:17.302 [main] WARN  Main - Skip of invalid line10 - 34 - 65 - 86Invalid number:10 - 34 - 65 - 86
+06:44:17.302 [main] INFO  validator.impl.ArrayValidatorImpl - 1j1, o5, 5, 6, 4isValidfalse
+06:44:17.303 [main] WARN  factory.impl.ArrayFactoryImpl - Validation failed from: 1j1, o5, 5, 6, 4
+06:44:17.303 [main] WARN  Main - Skip of invalid line1j1, o5, 5, 6, 4Invalid line: 1j1, o5, 5, 6, 4
+06:44:17.303 [main] INFO  validator.impl.ArrayValidatorImpl - isValidfalse
+06:44:17.303 [main] WARN  factory.impl.ArrayFactoryImpl - Validation failed from: 
+06:44:17.303 [main] WARN  Main - Skip of invalid lineInvalid line: 
+06:44:17.303 [main] INFO  validator.impl.ArrayValidatorImpl - 5; 1; 4; 0; 2isValidtrue
+06:44:17.303 [main] INFO  parser.impl.ArrayParserImpl - Parsed array: [5, 1, 4, 0, 2]
+06:44:17.303 [main] INFO  Main - Max: 5
+06:44:17.303 [main] INFO  Main - Min: 0
+06:44:17.304 [main] INFO  Main - Sum: 12
+06:44:17.304 [main] INFO  Main - Average: 2.4
+06:44:17.304 [main] INFO  Main - Bubble sorted: 5 1 4 0 2
+06:44:17.304 [main] INFO  Main - Quick sorted: 5 1 4 0 2
+07:03:44.100 [main] INFO  validator.impl.ArrayValidatorImpl - 1, 2, 3, 4, 5, 6isValidtrue
+07:03:44.106 [main] INFO  parser.impl.ArrayParserImpl - Parsed array: [1, 2, 3, 4, 5, 6]
+07:03:44.107 [main] INFO  Main - Max: 6
+07:03:44.107 [main] INFO  Main - Min: 1
+07:03:44.107 [main] INFO  Main - Sum: 21
+07:03:44.107 [main] INFO  Main - Average: 3.5
+07:03:44.108 [main] INFO  Main - Bubble sorted: 1 2 3 4 5 6
+07:03:44.108 [main] INFO  Main - Quick sorted: 1 2 3 4 5 6
+07:03:44.108 [main] INFO  validator.impl.ArrayValidatorImpl - 10 - 34 - 65 - 86isValidtrue
+07:03:44.108 [main] ERROR parser.impl.ArrayParserImpl - Failed to parse: 10 - 34 - 65 - 86
+07:03:44.108 [main] WARN  Main - Skip of invalid line10 - 34 - 65 - 86Invalid number:10 - 34 - 65 - 86
+07:03:44.108 [main] INFO  validator.impl.ArrayValidatorImpl - 1j1, o5, 5, 6, 4isValidfalse
+07:03:44.108 [main] WARN  factory.impl.ArrayFactoryImpl - Validation failed from: 1j1, o5, 5, 6, 4
+07:03:44.108 [main] WARN  Main - Skip of invalid line1j1, o5, 5, 6, 4Invalid line: 1j1, o5, 5, 6, 4
+07:03:44.108 [main] INFO  validator.impl.ArrayValidatorImpl - isValidfalse
+07:03:44.108 [main] WARN  factory.impl.ArrayFactoryImpl - Validation failed from: 
+07:03:44.109 [main] WARN  Main - Skip of invalid lineInvalid line: 
+07:03:44.109 [main] INFO  validator.impl.ArrayValidatorImpl - 5; 1; 4; 0; 2isValidtrue
+07:03:44.109 [main] INFO  parser.impl.ArrayParserImpl - Parsed array: [5, 1, 4, 0, 2]
+07:03:44.109 [main] INFO  Main - Max: 5
+07:03:44.109 [main] INFO  Main - Min: 0
+07:03:44.109 [main] INFO  Main - Sum: 12
+07:03:44.109 [main] INFO  Main - Average: 2.4
+07:03:44.109 [main] INFO  Main - Bubble sorted: 5 1 4 0 2
+07:03:44.109 [main] INFO  Main - Quick sorted: 5 1 4 0 2
+13:40:34.495 [main] INFO  com.laptanovich.arraytask.validator.impl.ArrayValidatorImpl - 1, 2, 3, 4, 5, 6isValidtrue
+13:40:34.508 [main] INFO  com.laptanovich.arraytask.parser.impl.ArrayParserImpl - Parsed array: [1, 2, 3, 4, 5, 6]
+13:40:34.510 [main] INFO  com.laptanovich.arraytask.Main - Max: 6
+13:40:34.511 [main] INFO  com.laptanovich.arraytask.Main - Min: 1
+13:40:34.512 [main] INFO  com.laptanovich.arraytask.Main - Sum: 21
+13:40:34.513 [main] INFO  com.laptanovich.arraytask.Main - Average: 3.5
+13:40:34.513 [main] INFO  com.laptanovich.arraytask.Main - Bubble sorted: 1 2 3 4 5 6
+13:40:34.513 [main] INFO  com.laptanovich.arraytask.Main - Quick sorted: 1 2 3 4 5 6
+13:40:34.514 [main] INFO  com.laptanovich.arraytask.validator.impl.ArrayValidatorImpl - 10 - 34 - 65 - 86isValidtrue
+13:40:34.514 [main] ERROR com.laptanovich.arraytask.parser.impl.ArrayParserImpl - Failed to parse: 10 - 34 - 65 - 86
+13:40:34.514 [main] WARN  com.laptanovich.arraytask.Main - Skip of invalid line: 10 - 34 - 65 - 86 Invalid number:10 - 34 - 65 - 86
+13:40:34.514 [main] INFO  com.laptanovich.arraytask.validator.impl.ArrayValidatorImpl - 1j1, o5, 5, 6, 4isValidfalse
+13:40:34.515 [main] WARN  com.laptanovich.arraytask.factory.impl.ArrayFactoryImpl - Validation failed from: 1j1, o5, 5, 6, 4
+13:40:34.515 [main] WARN  com.laptanovich.arraytask.Main - Skip of invalid line: 1j1, o5, 5, 6, 4 Invalid line: 1j1, o5, 5, 6, 4
+13:40:34.515 [main] INFO  com.laptanovich.arraytask.validator.impl.ArrayValidatorImpl - isValidfalse
+13:40:34.515 [main] WARN  com.laptanovich.arraytask.factory.impl.ArrayFactoryImpl - Validation failed from: 
+13:40:34.516 [main] WARN  com.laptanovich.arraytask.Main - Skip of invalid line:  Invalid line: 
+13:40:34.516 [main] INFO  com.laptanovich.arraytask.validator.impl.ArrayValidatorImpl - 5; 1; 4; 0; 2isValidtrue
+13:40:34.516 [main] INFO  com.laptanovich.arraytask.parser.impl.ArrayParserImpl - Parsed array: [5, 1, 4, 0, 2]
+13:40:34.516 [main] INFO  com.laptanovich.arraytask.Main - Max: 5
+13:40:34.516 [main] INFO  com.laptanovich.arraytask.Main - Min: 0
+13:40:34.516 [main] INFO  com.laptanovich.arraytask.Main - Sum: 12
+13:40:34.516 [main] INFO  com.laptanovich.arraytask.Main - Average: 2.4
+13:40:34.517 [main] INFO  com.laptanovich.arraytask.Main - Bubble sorted: 5 1 4 0 2
+13:40:34.517 [main] INFO  com.laptanovich.arraytask.Main - Quick sorted: 5 1 4 0 2
